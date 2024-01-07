@@ -1,4 +1,4 @@
-# Tech Academy Game Development Bootcamp Live Project
+# Temple Run Arcade Game
 
 In the Tech Academy Game Development Bootcamp, I collaborated with a team to create an engaging arcade menu featuring various thrilling games. My primary focus was on developing a unique version of the popular Temple Run game.
 
